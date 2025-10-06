@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Basic
 - 👀 I’m interested in coding, playing games, tech stuff in general
 - 🏫 I finished studies at Algebra University and got my baccalaureate in Software Engineering
-- 🧑‍🎓 I currently work at Kantun Devs in Rijeka where I am employed as a backend developer
+- 🧑‍🎓 I currently work at Spark Adriatic in Rijeka where I am employed as a backend developer
 - 💚 Passionate about Node.js, Java ☕ and Spring Boot 🌱.
 
 <!---
